@@ -1114,7 +1114,7 @@ img {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url("/img/bg-1.png");
+  background-image: url("../img/bg-1.png");
   opacity: 0.8;
 }
 
@@ -1127,14 +1127,15 @@ img {
 }
 
 .fixed-img.plant {
-  background-image: url("/img/plant-1.png");
+  background-image: url("..
+    /plant-1.png");
   width: 130px;
   height: 250px;
   left: calc(50% - 570px);
 }
 
 .fixed-img.table {
-  background-image: url("/img/table-1.png");
+  background-image: url("../img/table-1.png");
   width: 140px;
   height: 140px;
   right: calc(50% - 575px);
